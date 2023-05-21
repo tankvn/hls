@@ -1,6 +1,6 @@
 # HLS .m3u8 sample
 
-* http://qt* http.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8  
+* http://qthttp.apple.com.edgesuite.net/1010qwoeiuryfg/sl.m3u8  
 * http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8  
 * http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8  
 * http://playertest.longtailvideo.com/adaptive/oceans_aes/oceans_aes.m3u8 (AES encrypted)  
@@ -19,9 +19,14 @@
 * http://cdn3.viblast.com/streams/hls/airshow/playlist.m3u8 (4K)  
 * https://wowzaec2demo.streamlock.net/live/bigbuckbunny/playlist.m3u8  
 
+https://d6hwdeiig07o4.cloudfront.net/ivs/956482054022/cTo5UpKS07do/2020-07-13T22-54-42.188Z/OgRXMLtq8M11/media/hls/master.m3u8  
+https://d6hwdeiig07o4.cloudfront.net/ivs/956482054022/cTo5UpKS07do/2020-07-13T22-54-42.188Z/OgRXMLtq8M11/media/hls/720p30/playlist.m3u8  
+https://d6hwdeiig07o4.cloudfront.net/ivs/956482054022/cTo5UpKS07do/2020-07-13T22-54-42.188Z/OgRXMLtq8M11/media/hls/480p30/playlist.m3u8  
+https://d6hwdeiig07o4.cloudfront.net/ivs/956482054022/cTo5UpKS07do/2020-07-13T22-54-42.188Z/OgRXMLtq8M11/media/hls/360p30/playlist.m3u8  
+https://d6hwdeiig07o4.cloudfront.net/ivs/956482054022/cTo5UpKS07do/2020-07-13T22-54-42.188Z/OgRXMLtq8M11/media/hls/160p30/playlist.m3u8  
 
 ### Reference
-[https://debug.ivsdemos.com](* https://debug.ivsdemos.com)  
-[https://github.com/mk0x9/hls-encrypted-sample](* https://github.com/mk0x9/hls-encrypted-sample " sample (un-)encrypted m3u8 ")  
-[https://github.com/1x3x3x7/m3u8_samples](* https://github.com/1x3x3x7/m3u8_samples)  
-[https://github.com/fftt2017/hls-m3u8-sample](* https://github.com/fftt2017/hls-m3u8-sample)  
+[https://debug.ivsdemos.com](https://debug.ivsdemos.com)  
+[https://github.com/mk0x9/hls-encrypted-sample](https://github.com/mk0x9/hls-encrypted-sample "sample (un-)encrypted m3u8")  
+[https://github.com/1x3x3x7/m3u8_samples](https://github.com/1x3x3x7/m3u8_samples)  
+[https://github.com/fftt2017/hls-m3u8-sample](https://github.com/fftt2017/hls-m3u8-sample)  
